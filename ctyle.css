@@ -1,0 +1,95 @@
+.div1{
+    width: 3000px;
+    height: 185px;
+    background:black;
+    display: flex;
+
+}
+.texte{
+    font-size: 50px;
+}
+
+.h1{
+    color:green;
+    padding-top:46px ;
+}
+.we{
+    padding-top: 46px;
+    color:azure;
+    text-align: center;
+    font-size:25px;
+    font-style:italic;
+}
+.img{
+    padding-top: 46px;
+    width: 100px;
+    height: 60px;
+}
+.im{
+    width: 450px;
+    height: 600px;
+}
+.div2{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    padding: 100px;
+    display: flex;
+    flex-direction: column;
+}
+.table1{
+    border-collapse: collapse; 
+    border: 2px solid black; 
+    font-size: 25px;
+}
+.table1 td {
+    border: 2px solid black;
+    padding: 10px;
+}
+.gren{
+    color:green;
+}
+.imges{
+    display: flex;
+    width: 300px;
+    height: 400px;
+}
+.green{
+    background:rgb(114, 255, 114);
+    border-collapse: collapse;
+    border: 1px solid black;
+    margin: 20px;
+}
+.green td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+.red{
+    background:rgb(255, 91, 91) ;
+    border-collapse: collapse;
+    border: 1px solid black;
+    margin: 20px;
+}
+.div4{
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+}
+.pe{
+    font-size: 25px;
+}
+.div6{
+    font-size: 30px;
+}
+.red td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+.footer7{
+    background: black;
+    color:rgb(255, 255, 255);
+    width:2000;
+    height:120px;
+    text-align: center;
+    padding-top:60px;
+}
